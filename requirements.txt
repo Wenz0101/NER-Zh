@@ -1,0 +1,5 @@
+datasets==4.3.0
+pandas==1.5.3
+seqeval==1.2.2
+torch==2.3.0+cu118
+transformers==4.41.2
